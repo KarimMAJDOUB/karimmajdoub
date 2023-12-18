@@ -2,5 +2,6 @@
 <!--👋-Banner-->
 # 🧑🏻‍💻 Abdelkarim MAJDOUB
 **`Machine Learning / Data Engineer`**
-
+---
+## 👨‍💻 About Me
 
