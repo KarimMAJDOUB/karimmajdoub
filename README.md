@@ -10,7 +10,7 @@ As a seasoned Data and Machine Learning Engineer, my specialization revolves aro
 Please feel free to reach out to me via my LinkedIn profile.
 <p>
 <a href="https://www.linkedin.com/in/abdelkarim-majdoub-ab3864110/">
-<img alt="LinkedIn" src="https://github.com/KarimMAJDOUB/karimmajdoub/blob/main/linkedin.png" width="25" height="25">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="25" height="25">
 </a> 
 <br>
 </p>
