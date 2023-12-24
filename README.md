@@ -71,7 +71,7 @@ Project|Progress |Description|Tags|
 *[PPFML](https://discovervolve.com/2021/02/23/development-of-a-machine-learning-model-based-on-feature-selection-to-predict-volve-production-rate/?fbclid=IwAR3e1WuwUu2nB8w6ZyTKslGpi3UfgWXw-JaIThe1w40FVQE1MX66TuEsmME)*|![100%](https://progress-bar.dev/100)|Development of a Machine Learning model based on feature selection to predict Volve production rate| `Machine Learning` , `Data Analysis`, `sickit-learn`|
 *[DeepDenoiser](https://github.com/KarimMAJDOUB/DeepDenoiser)*|![50%](https://progress-bar.dev/50)|Seismic Signal Denoising and Decomposition Using Deep Neural Networks|`Deep Learning`,`Computer Vision`,`Tensorflow Keras`|
 *[GCINO-EM](https://github.com/KarimMAJDOUB/GCInO-EM)*|![20%](https://progress-bar.dev/20)|Automated Consumables Management Application| `OOP`,`Python`,`Qt-Creator`|
-*[Skyward Insights]()*|![0%](https://progress-bar.dev/10)|Data pipeline and analysis to extracts flight data from flights APIs and constructs a dashboard on top of this|`Data Engineering`,`DataViz`,`Data Analysis`,`Apache Airflow`,`Power BI`|
+*[Skyward Insights]()*|![0%](https://progress-bar.dev/0)|Data pipeline and analysis to extracts flight data from flights APIs and constructs a dashboard on top of this|`Data Engineering`,`DataViz`,`Data Analysis`,`Apache Airflow`,`Power BI`|
 *[Travel Gems Finder]()*|![0%](https://progress-bar.dev/0)|Discover Top Airbnb Accommodations for Any Date and Location| `Data Analysis`,`Machine Learning`|
 
 
