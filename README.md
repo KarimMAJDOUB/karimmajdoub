@@ -7,8 +7,8 @@
 # ℹ️About Me
 As a seasoned Data and Machine Learning Engineer, my specialization revolves around crafting and deploying sophisticated data analytics solutions. I boast a solid foundation in data manipulation, statistical modeling, and proficiency in programming languages, including Python. My track record includes valuable contributions to diverse projects encompassing data analysis, predictive modeling, and machine learning algorithms. My knack for distilling actionable insights from intricate datasets and fine-tuning models for enhanced accuracy and efficiency has significantly influenced data-driven decision-making. Fueled by a fervor for harnessing cutting-edge technologies and keeping abreast of industry trends, I am dedicated to delivering pioneering solutions that foster business growth and optimize operational efficiency.
 
-# Numerical Skills
-### Programming Languages
+# 🚀Numerical Skills
+### 🖥️Programming Languages
 <!--Programming languages-->
 <p>
   <img alt="Python" src="https://a11ybadges.com/badge?logo=python"/>
@@ -18,7 +18,7 @@ As a seasoned Data and Machine Learning Engineer, my specialization revolves aro
   <img alt="R" src="https://a11ybadges.com/badge?logo=rstudio"/>
 </p>
 
-### RDBMS
+### 🔋RDBMS
 <!--Platforms-->
 <p>
   <img alt="SQL Server" src="https://a11ybadges.com/badge?logo=microsoftsqlserver"/>
@@ -26,7 +26,7 @@ As a seasoned Data and Machine Learning Engineer, my specialization revolves aro
   <img alt="PostgreSQL" src="https://a11ybadges.com/badge?logo=postgresql"/>
 </p>
 
-### Frameworks & Librairies
+### 🧮Frameworks & Librairies
 <!--Frameworks-->
 <p>
   <img alt="PySpark" src="https://a11ybadges.com/badge?logo=apachespark"/>
@@ -39,7 +39,7 @@ As a seasoned Data and Machine Learning Engineer, my specialization revolves aro
   <img alt="Git" src="https://a11ybadges.com/badge?logo=tensorflow"/>
 </p>
 
-### Cloud & Plateforms
+### ☁️Cloud & Plateforms
 <!--Tools-->
 <p>
   <img alt="AWS" src="https://a11ybadges.com/badge?logo=amazonaws"/>
@@ -48,7 +48,7 @@ As a seasoned Data and Machine Learning Engineer, my specialization revolves aro
   <img alt="Palantir Foundry" src="https://a11ybadges.com/badge?logo=palantir"/>
 </p>
 
-### Tools
+### 🛠️Tools
 <!--Tools-->
 <p>
   <img alt="Git" src="https://a11ybadges.com/badge?logo=git"/>
@@ -64,7 +64,7 @@ As a seasoned Data and Machine Learning Engineer, my specialization revolves aro
   <img alt="css3" src="https://a11ybadges.com/badge?logo=css3"/>
 </p>
 
-# Projects 
+# 👽Projects 
 
 Project|Progress |Description|Tags|
 |:--:|:--:|:--:|:--:|
@@ -75,7 +75,7 @@ Project|Progress |Description|Tags|
 *[Skyward Insights]("")*|![10%](https://progress-bar.dev/10)|Data pipeline and analysis to extracts flight data from flights APIs and constructs a dashboard on top of this|`Data Engineering`,`DataViz`,`Data Analysis`,`Apache Airflow`,`Power BI`|
 
 
-# Contact me
+# 💬Contact me
 If an individual possesses an innovative, pioneering, and novel concept and wishes to engage in collaborative work, please feel free to get in touch with me.
 
 * [LinkedIn](https://www.linkedin.com/in/abdelkarim-majdoub-ab3864110/) - Let's establish professional connections and engage in communication.
