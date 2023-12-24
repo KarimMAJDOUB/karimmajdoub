@@ -7,14 +7,6 @@
 # ℹ️About Me
 As a seasoned Data and Machine Learning Engineer, my specialization revolves around crafting and deploying sophisticated data analytics solutions. I boast a solid foundation in data manipulation, statistical modeling, and proficiency in programming languages, including Python. My track record includes valuable contributions to diverse projects encompassing data analysis, predictive modeling, and machine learning algorithms. My knack for distilling actionable insights from intricate datasets and fine-tuning models for enhanced accuracy and efficiency has significantly influenced data-driven decision-making. Fueled by a fervor for harnessing cutting-edge technologies and keeping abreast of industry trends, I am dedicated to delivering pioneering solutions that foster business growth and optimize operational efficiency.
 
-Please feel free to reach out to me via my LinkedIn profile.
-<p>
-<a href="https://www.linkedin.com/in/abdelkarim-majdoub-ab3864110/" target="_blank">
-<img alt="LinkedIn" src="https://a11ybadges.com/badge?logo=linkedin"/>
-</a> 
-<br>
-</p>
-
 # Numerical Skills
 ### Programming Languages
 <!--Programming languages-->
@@ -51,6 +43,7 @@ Please feel free to reach out to me via my LinkedIn profile.
 <!--Tools-->
 <p>
   <img alt="AWS" src="https://a11ybadges.com/badge?logo=amazonaws"/>
+  <img alt="Azure" src="https://a11ybadges.com/badge?logo=microsoftazure"/>
   <img alt="Databricks" src="https://a11ybadges.com/badge?logo=databricks"/>
   <img alt="Palantir Foundry" src="https://a11ybadges.com/badge?logo=palantir"/>
 </p>
@@ -69,8 +62,24 @@ Please feel free to reach out to me via my LinkedIn profile.
   <img alt="Jupyter" src="https://a11ybadges.com/badge?logo=jupyter"/>
   <img alt="html5" src="https://a11ybadges.com/badge?logo=html5"/>
   <img alt="css3" src="https://a11ybadges.com/badge?logo=css3"/>
-  
-  
 </p>
+
+# Projects 
+
+Project|Progress |Description|Tags|
+|:--:|:--:|:--:|:--:|
+*[Petroleum Production Prediction using ML](https://discovervolve.com/2021/02/23/development-of-a-machine-learning-model-based-on-feature-selection-to-predict-volve-production-rate/?fbclid=IwAR3e1WuwUu2nB8w6ZyTKslGpi3UfgWXw-JaIThe1w40FVQE1MX66TuEsmME)*|![100%](https://progress-bar.dev/100)|Development of a Machine Learning model based on feature selection to predict Volve production rate| `Machine Learning` , `Data Analysis`, `sickit-learn`|
+*[Geostatistical History Matching Using ML]()*|![70%](https://progress-bar.dev/70)|Applying ML models to enhance geostatistical history matching in petroleum reservoir engineering| `Geostatistics`,`Machine Learning`,`sickit-learn`|
+*[DeepDenoiser](https://github.com/KarimMAJDOUB/DeepDenoiser)*|![50%](https://progress-bar.dev/50)|Seismic Signal Denoising and Decomposition Using Deep Neural Networks|`Deep Learning`,`Computer Vision`,`Tensorflow Keras`|
+*[GCINO-EM](https://github.com/KarimMAJDOUB/GCInO-EM)*|![20%](https://progress-bar.dev/20)|Automated Consumables Management Application| `OOP`,`Python`,`Qt-Creator`|
+*[Skyward Insights]("")*|![10%](https://progress-bar.dev/10)|Data pipeline and analysis to extracts flight data from flights APIs and constructs a dashboard on top of this|`Data Engineering`,`DataViz`,`Data Analysis`,`Apache Airflow`,`Power BI`|
+
+
+# Contact me
+If an individual possesses an innovative, pioneering, and novel concept and wishes to engage in collaborative work, please feel free to get in touch with me.
+
+* [LinkedIn](https://www.linkedin.com/in/abdelkarim-majdoub-ab3864110/) - Let's establish professional connections and engage in communication.
+* [E-mail](abdelkarim.majdoub92@gmail.com)
+* [WebSite]("")
 
 
