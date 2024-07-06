@@ -80,6 +80,6 @@ If an individual possesses an innovative, pioneering, and novel concept and wish
 
 * [LinkedIn](https://www.linkedin.com/in/abdelkarim-majdoub-ab3864110/) - Let's establish professional connections and engage in communication.
 * [E-mail](abdelkarim.majdoub92@gmail.com)
-* [WebSite]("https://karimmajdoub.netlify.app/")
+* [WebSite](https://karimmajdoub.netlify.app/) - Take a look to gain more visibility into my profile.
 
 
