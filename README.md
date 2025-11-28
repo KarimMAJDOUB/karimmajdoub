@@ -1,5 +1,5 @@
 <!--👋-Banner-->
-<center><img alt="Header" src="https://github.com/KarimMAJDOUB/karimmajdoub/blob/main/cover.png"/></center>
+<center><img alt="Header" src="https://github.com/KarimMAJDOUB/karimmajdoub/blob/main/cover_github.jpg"/></center>
 
 # 🧑‍💻Abdelkarim MAJDOUB
 **`Machine Learning / Data Engineer`**
