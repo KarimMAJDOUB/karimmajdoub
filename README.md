@@ -13,9 +13,6 @@ As a seasoned Data and Machine Learning Engineer, my specialization revolves aro
 <p>
   <img alt="Python" src="https://a11ybadges.com/badge?logo=python"/>
   <img alt="TypeScript" src="https://a11ybadges.com/badge?logo=typescript"/>
-  <img alt="JavaScript" src="https://a11ybadges.com/badge?logo=javascript"/>
-  <img alt="Java" src="https://a11ybadges.com/badge?logo=java"/>
-  <img alt="R" src="https://a11ybadges.com/badge?logo=rstudio"/>
 </p>
 
 ### 🔋RDBMS
@@ -31,11 +28,6 @@ As a seasoned Data and Machine Learning Engineer, my specialization revolves aro
 <p>
   <img alt="PySpark" src="https://a11ybadges.com/badge?logo=apachespark"/>
   <img alt="Airflow" src="https://a11ybadges.com/badge?logo=apacheairflow"/>
-  <img alt="Django" src="https://a11ybadges.com/badge?logo=django"/>
-  <img alt="Git" src="https://a11ybadges.com/badge?logo=pandas"/>
-  <img alt="Git" src="https://a11ybadges.com/badge?logo=numpy"/>
-  <img alt="Git" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
-  <img alt="Git" src="https://a11ybadges.com/badge?logo=keras"/>
   <img alt="Git" src="https://a11ybadges.com/badge?logo=tensorflow"/>
 </p>
 
@@ -43,7 +35,6 @@ As a seasoned Data and Machine Learning Engineer, my specialization revolves aro
 <!--Tools-->
 <p>
   <img alt="AWS" src="https://a11ybadges.com/badge?logo=amazonaws"/>
-  <img alt="Azure" src="https://a11ybadges.com/badge?logo=microsoftazure"/>
   <img alt="Databricks" src="https://a11ybadges.com/badge?logo=databricks"/>
   <img alt="Palantir Foundry" src="https://a11ybadges.com/badge?logo=palantir"/>
 </p>
